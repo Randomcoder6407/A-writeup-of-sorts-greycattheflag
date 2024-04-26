@@ -14,11 +14,13 @@ We're a bunch of *Secondary 3's* from *Bukit Batok secondary school* and attempt
 
 We attempted the following challenges
 
-*  The Real GreyCTF survey
-*  Cats At The Beach
-*  Sanity Check
-*  Out In Plain Sight (we didn't get the flag in time)
-
+*  [The Real GreyCTF survey](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/The%20Real%20GreyCTF%20survey/README.md)
+*  [Cats At The Beach
+](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Cats%20At%20The%20Beach/README.md)
+*  [Sanity Check
+](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Sanity%20Check/README.md)
+* [Out In Plain Sight (we didn't get the flag in time)
+](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Out%20In%20Plain%20Sight/README.md)
 
 
 
