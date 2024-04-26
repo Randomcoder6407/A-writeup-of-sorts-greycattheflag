@@ -75,4 +75,5 @@ since we loved the person called caprinux we put down "yes"
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhph.png?raw=true)
 
-After completeing all these Painful steps, we finally pressed the submit button
+After completeing all these Painful steps, we finally pressed the submit button.
+with the submit button pressed, we were greeted by this screen
