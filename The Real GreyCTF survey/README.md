@@ -77,3 +77,19 @@ since we loved the person called caprinux we put down "yes"
 
 After completeing all these Painful steps, we finally pressed the submit button.
 with the submit button pressed, we were greeted by this screen
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jnqy.png?raw=true)
+
+since we have background knowledge that the flag is in the format "grey{...}"
+we first submitted the flag ``grey{...}``
+however, it did not accept. So, we decided to try the flag that we see on the page, ```grey{1_h0p3_yOu_3njOy3d!!!!!!}``` and it accpeted
+
+---
+Conclusion
+
+The flag was ```grey{1_h0p3_yOu_3njOy3d!!!!!!}```
+
+The CTF was fun
+
+Dont give up if your flag dosent get accepted on the first try!!
+
