@@ -55,4 +55,11 @@ well for my team,we really likes the carinux guy so we left our ***HONEST*** fee
 
 9. Next, theres a question which reads "What challenges did you like the most?"
 As,once again this is a _***FEEDBACK FORM***_ we left our honest feedback 
-![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhlx.png?raw=true)
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jkca.png?raw=true)
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jjpv.png?raw=true)
+
+10. Next, theres a question which reads "What challenge(s) did you dislike the most?"
+well, we left our honest feedback 
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhmi.png?raw=true)
