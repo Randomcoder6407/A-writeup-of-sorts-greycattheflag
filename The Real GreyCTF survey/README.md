@@ -39,27 +39,40 @@ so in conclusion,
 1. open the very suspicious link
 2. Type in team name
 3. Reconfirm your alligence to Singapore
-4. Put everything for "How difficult was each category?" to "very hard"
-5. Put everything for "How fun was each category?" to "Didn't attempt" except for the "Misellaneous"(we love misellanous)
+4. Tell organizers which advertising method worked
+5. Put everything for "How difficult was each category?" to "very hard"
+6. Put everything for "How fun was each category?" to "Didn't attempt" except for the "Misellaneous"(we love misellanous)
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jfkv.png?raw=true)
-6. next, there is a question which reads "If you mentioned that the challenges were fun, what was fun and why? If it was a bad experience, what was bad and why?" 
+7. next, there is a question which reads "If you mentioned that the challenges were fun, what was fun and why? If it was a bad experience, what was bad and why?" 
 as we mentioned before, this seems to be a feedback form hence, we must give our very honest feedback
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jgld.png?raw=true)
 
-7. again, we are faced with a question that reads "What is one thing that can be improved on in the event?". Once again, we **Must** leave our honest feedback
+8. again, we are faced with a question that reads "What is one thing that can be improved on in the event?". Once again, we **Must** leave our honest feedback
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jgyx.png?raw=true)
 
-8. next, theres a question which reads "Apart from challenges, what is one thing that was good in the CTF?" 
+9. next, theres a question which reads "Apart from challenges, what is one thing that was good in the CTF?" 
 well for my team,we really likes the carinux guy so we left our ***HONEST*** feedback
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhgw.png?raw=true)
 
-9. Next, theres a question which reads "What challenges did you like the most?"
+10. Next, theres a question which reads "What challenges did you like the most?"
 As,once again this is a _***FEEDBACK FORM***_ we left our honest feedback 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jkca.png?raw=true)
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jjpv.png?raw=true)
 
-10. Next, theres a question which reads "What challenge(s) did you dislike the most?"
+11. Next, theres a question which reads "What challenge(s) did you dislike the most?"
 well, we left our honest feedback 
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhmi.png?raw=true)
+
+12. Furthermore, there is a question which reads "Will you participate again in the future?" 
+
+since we loved the person called caprinux we put down "yes"
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhql.png?raw=true)
+
+13. And lastly, we filled in the last question which read "Any other feedback for us? We'd love to hear from you!"
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhph.png?raw=true)
+
+After completeing all these Painful steps, we finally pressed the submit button
