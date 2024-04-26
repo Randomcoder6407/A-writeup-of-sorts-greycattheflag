@@ -93,3 +93,8 @@ The CTF was fun
 
 Dont give up if your flag dosent get accepted on the first try!!
 
+We hope this wins us a prize!!!! 
+	
+###### if we don't win anything we would love merch even 
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/0_7IBCCnfO8FqqrHMd.jpg?raw=true)
