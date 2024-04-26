@@ -22,7 +22,8 @@ The challenge
 
 
 
-as we can see, there is a very suspicious link which seems to be a Google Form
+as we can see, there is a very suspicious link which seems to be a Google Form (image related)
 
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/d0f060d8863df7ba25c023bf4b4461ac.jpg)
 
 ---
