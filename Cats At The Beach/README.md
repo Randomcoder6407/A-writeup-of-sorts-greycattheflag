@@ -2,7 +2,7 @@
 
 Hello!
 
-This is Team Banannana's writeup (we are all sec 3's with this being our first ctf/writeup so please dont grill us too hard or zenneth will cry)
+This is Team ```Banannanna's``` writeup (we are all sec 3's with this being our first ctf/writeup so please dont grill us too hard or zenneth will cry)
 
 ---
 
