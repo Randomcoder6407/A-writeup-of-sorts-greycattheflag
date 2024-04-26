@@ -30,3 +30,14 @@ Well since the question hints to the Flag being a name of a beach and the social
 (the hint has been retracted by the admins as seen by timestamps(also we solved this before the hint))
 
 With these hints, it is still quite hard to find where the beach is, Hence, we reverse image searched it using Google
+
+it initially got stuck at the handsome man in the image 
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-nnxs.jpeg?raw=true)
+
+so we manually distracted it to put its focus back into the beach and to narrow it down even further, we selected only the mountains in the background
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-noad.jpeg?raw=true)
+
+With this, we had a tremendus clue that the beach was called My Khe Beach!!!
+
+However, when we put it into the challenge website, it deemed that we were wrong. So we decided to dig deeper into my khe beach
