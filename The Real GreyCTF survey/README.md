@@ -47,3 +47,12 @@ as we mentioned before, this seems to be a feedback form hence, we must give our
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jgld.png?raw=true)
 
 7. again, we are faced with a question that reads "What is one thing that can be improved on in the event?". Once again, we **Must** leave our honest feedback
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jgyx.png?raw=true)
+
+8. next, theres a question which reads "Apart from challenges, what is one thing that was good in the CTF?" 
+well for my team,we really likes the carinux guy so we left our ***HONEST*** feedback
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhgw.png?raw=true)
+
+9. Next, theres a question which reads "What challenges did you like the most?"
+As,once again this is a _***FEEDBACK FORM***_ we left our honest feedback 
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jhlx.png?raw=true)
