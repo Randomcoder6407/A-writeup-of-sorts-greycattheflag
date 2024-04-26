@@ -18,3 +18,10 @@ The challenge
 > 
 
 and this image was attached
+
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/beach.jpg?raw=true)
+
+---
+How to go about solving it
+
+Well since the question hints to the Flag being a name of a beach 
