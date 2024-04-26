@@ -24,11 +24,20 @@ The challenge
 
 as we can see, there is a very suspicious link which seems to be a Google Form (image related)
 
-![me fr](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/d0f060d8863df7ba25c023bf4b4461ac.jpg)
+![me fr](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/d0f060d8863df7ba25c023bf4b4461ac.jpg?raw=true)
 
 ---
 
 How to solve?
 
 well despite our best attempts of getting a VPN up and running to prevent ourselves from getting a DDOS attack, the VPN did not work and we were subject to the horrors of the Google Form.
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jdsm.png?raw=true)
 
+Well since this seems to be some sort of Feedback Form, we all decided the good thing to do would be to leave good feedback.
+so in conclusion,
+
+1. open the very suspicious link
+2. Type in team name
+3. Reconfirm your alligence to Singapore
+4. Put everything for "How difficult was each category?" to "very hard"
+5. Put everything for "How fun was each category?" to "Didn't attempt" except for the "Misellaneous"(we love misellanous)
