@@ -41,3 +41,6 @@ so in conclusion,
 3. Reconfirm your alligence to Singapore
 4. Put everything for "How difficult was each category?" to "very hard"
 5. Put everything for "How fun was each category?" to "Didn't attempt" except for the "Misellaneous"(we love misellanous)
+![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240426-jfkv.png?raw=true)
+6. next, there is a question which reads "If you mentioned that the challenges were fun, what was fun and why? If it was a bad experience, what was bad and why?" 
+as we mentioned before, this seems to be a feedback form hence, we must give our very honest feedback
