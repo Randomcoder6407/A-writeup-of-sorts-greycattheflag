@@ -69,4 +69,5 @@ hence, we can officially say that we solved it in this way which lead to use win
 * The flag is ```grey{pham_van_dong}```
 * Zenneth cried at this challenge
 * We learned more about how to diversify our attempts and to use street view more to get a better view of such challenges
-* please give us a prize or zenneth will be sad 
+* zenneth was sad (image related)
+ ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/zennethsad.jpeg?raw=true)
