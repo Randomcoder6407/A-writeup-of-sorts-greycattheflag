@@ -2,7 +2,7 @@
 
 Hello!
 
-This is Team ```Banannanna's``` writeup (we are all sec 3's with this being our first ctf/writeup)
+This is Team ``` Banannanna's``` writeup (we are all sec 3's with this being our first ctf/writeup)
 
 ---
 
@@ -14,9 +14,9 @@ The challenge
 
 A breakdown
 
-The Challenge consists of a weird link with the prefix of discord.gg
+The Challenge consists of a weird link with the prefix discord.gg
 
-Our best guesses led us to belive that it would be either a file stored on the Discord INC servers or it would be a link to a server.
+Our best guesses led us to believe that it would be either a file stored on the Discord INC servers or it would be a link to a server.
 
 Well since our best teammate ETHAN DALGADO (he got 0 solves) realised that a file stored on discord servers would have the prefix of media.discordapp.net as visible in this link 
 
@@ -24,14 +24,14 @@ Well since our best teammate ETHAN DALGADO (he got 0 solves) realised that a fil
 
 (dont load up the image)
 
-Well since its a discord link we have no other choice but to join the discord server.
+Well since it's a Discord link we have no other choice but to join the Discord server.
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/maxresdefault.jpg?raw=true)
 
 ---
-How to solve?
+How to solve it?
 
-Well despite our best instincts we just had to click on the link. With that we are faced with this screen
+Well despite our best instincts we just had to click on the link. With that, we are faced with this screen
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-ixwn.png?raw=true)
 
@@ -39,7 +39,7 @@ So we comply with its instructions
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-ixyw.png?raw=true)
 
-After that we are asked to pick out which house we would like to swim in 
+After that, we are asked to pick out which house we would like to swim in 
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-iyas.png?raw=true)
 
@@ -49,7 +49,7 @@ After solving that difficult challenge we are faced with this screen
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-iyff.png?raw=true)
 
-We were all immensely skeptical of this "DISCORD INC" website as, the whole time it caused my GPU to spike its usage to 100%
+We were all immensely sceptical of this "DISCORD INC" website as the whole time it caused my GPU to spike its usage to 100%
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-iypk.png?raw=true)
 
@@ -57,7 +57,7 @@ Hence, we used the one way we knew how to use the website
 
 # LOGGING IN
 
-So we went back to the main website link and clicked the very subtle "i have a account" button
+So we went back to the main website link and clicked the very subtle "I have an account" button
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-iyve.png?raw=true)
 
@@ -65,7 +65,7 @@ And enter our very secure credentials
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-iyyj.png?raw=true)
 
-After that we are asked to pick out a waterpark again
+After that, we are asked to pick out a waterpark again
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-izdl.png?raw=true)
 
@@ -73,14 +73,14 @@ However, even the waterpark was not enough to get past its defences
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-izkd.png?raw=true)
 
-To our horror we realised that that had been pulling a ddos attact on us the entire time
+To our horror, we realised that they had been pulling a DDoS attack on us the entire time
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-iznl.png?raw=true)
 
-desipite our private details being leaked to a weird mascot who only goes wump-wump we preserviered and made it to the discord main page
+Despite our private details being leaked to a weird mascot who only goes womp-womp we persevere and make it to the Discord main page
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jdus.png?raw=true)
 
-since the messages failed to load we realised this ctf was going to be MUCH MUCH harder 
+since the messages failed to load we realised this CTF was going to be MUCH MUCH harder 
 
 so we looked through all the channels
 
@@ -90,11 +90,11 @@ and one dm
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jhqh.png?raw=true)
 
-we clicked on the link and were destraught that we didnt have sufficient access
+we clicked on the link and were distraught that we didn't have sufficient access
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jhsv.png?raw=true)
 
-this discord website was truely a scam. So we went back to seeing the server
+this discord website was truly a scam. So we went back to see the server
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jhwx.png?raw=true)
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jhxw.png?raw=true)
@@ -121,15 +121,15 @@ dropped a follow
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jjas.png?raw=true)
 
-then we watched this video which was a advertising video of sorts for this CTF
+then we watched this video which was an advertising video of sorts for this CTF
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jjcw.png?raw=true)
 
 
 It did not contain the flag
 
-so we were back to the discord server
+so we were back to the Discord server
 
-in a desperate attempt to solve it we simply used the search function to search up the word "grey" as we had insider information that the flag would have the word grey in it
+in a desperate attempt to solve it, we simply used the search function to search up the word "grey" as we had insider information that the flag would have the word grey in it
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jlnm.png?raw=true)
 
@@ -144,7 +144,7 @@ so we clicked on it. and lo and behold as bright as day there was the flag
 
 ![](https://github.com/saumilthecode/A-writeup-of-sorts-greycattheflag/blob/main/Images/SCR-20240427-jlpy.png?raw=true)
 
-So in concusion,
+So in conclusion,
 
 * We are pro flag hunters 😎😎😎
 
