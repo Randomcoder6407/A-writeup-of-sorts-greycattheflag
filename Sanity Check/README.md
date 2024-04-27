@@ -2,7 +2,7 @@
 
 Hello!
 
-This is Team ``` Banannanna's``` writeup (we are all sec 3's with this being our first ctf/writeup)
+This is Team ```Banannanna's``` writeup (we are all sec 3's with this being our first ctf/writeup)
 
 ---
 
