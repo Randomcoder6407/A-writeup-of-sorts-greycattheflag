@@ -23,3 +23,5 @@ Well since our best teammate ETHAN DALGADO (he got 0 solves) realised that a fil
 ``` https://media.discordapp.net/attachments/1211314841533550613/1233423005506338876/8d3c8178-6910-4b8d-8745-d43bc94fc326.jpg?ex=662d0a30&is=662bb8b0&hm=090c14c4562171c00fbfa7081f388960dad686fce2d33b08a1af30427dc939c3&=&format=webp&width=1058&height=700 ```
 
 (dont load up the image)
+
+Well since its a discord link we have no other choice but to join the discord server.
