@@ -20,7 +20,7 @@ Our best guesses led us to believe that it would be either a file stored on the 
 
 Well since our best teammate ETHAN DALGADO (he got 0 solves) realised that a file stored on discord servers would have the prefix of media.discordapp.net as visible in this link 
 
-``` https://media.discordapp.net/attachments/1211314841533550613/1233423005506338876/8d3c8178-6910-4b8d-8745-d43bc94fc326.jpg?ex=662d0a30&is=662bb8b0&hm=090c14c4562171c00fbfa7081f388960dad686fce2d33b08a1af30427dc939c3&=&format=webp&width=1058&height=700 ```
+``` [https://media.discordapp.net/attachments/1211314841533550613/1233423005506338876/8d3c8178-6910-4b8d-8745-d43bc94fc326.jpg?ex=662d0a30&is=662bb8b0&hm=090c14c4562171c00fbfa7081f388960dad686fce2d33b08a1af30427dc939c3&=&format=webp&width=1058&height=700](https://media.discordapp.net/attachments/958620955465363456/1239574055955464274/image.png?ex=6644bc4d&is=66436acd&hm=23c76ac669b1302d156d2a9e54a05f1f00d04ddecd0e91923493592f03d95640&=&format=webp&quality=lossless&width=1160&height=1148) ```
 
 (dont load up the image)
 
